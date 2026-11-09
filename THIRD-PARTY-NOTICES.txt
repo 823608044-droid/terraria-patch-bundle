@@ -1,0 +1,36 @@
+﻿安装包不含 Terraria 游戏程序、游戏资源、玩家存档、地图记录或 Steam 账号信息。
+启动器为 TerrariaInjector 派生，修改日期 2026-11-09：可选钓鱼缺失时跳过、统一多开检测。源码和 GPL-3.0 随包提供。
+框架和其他第三方许可证见 licenses。守护附灵音效署名见其 assets/SFX-LICENSES.txt。
+自制部分的权利归原作者；打包没有改变任何原作者声明。
+本包没有联网更新、遥测或远程控制入口。框架的专用服务器管理 API 默认禁用，本包只支持单人。
+这是待授权内容已剔除的分享候选版。
+[
+  {
+    "id": "auto-reforge-local",
+    "reason": "参考原作未找到明确再分发许可"
+  },
+  {
+    "id": "auto-torch-cn",
+    "reason": "原作再分发许可待确认"
+  },
+  {
+    "id": "performance-probe-local",
+    "reason": "临时诊断插件不随包安装"
+  },
+  {
+    "id": "star-yoyo-kit-local",
+    "reason": "依赖待授权的 Ty 悠悠球移植"
+  },
+  {
+    "id": "true-bestiary",
+    "reason": "未找到明确再分发许可"
+  },
+  {
+    "id": "tys-yoyo-native-local",
+    "reason": "未找到明确再分发许可"
+  },
+  {
+    "id": "vanilla-bosses-native-local",
+    "reason": "原作与资源的再分发许可待确认"
+  }
+]
